@@ -1,0 +1,2 @@
+# Predicting-PM-2.5-pollution
+This project aims to predict the PM 2.5 Air Pollution using the suitable weather data which is readily available. To solve this problem, firstly, exploratory data analysis will be conducted on available weather and pollution datasets to discover the correlation between different features. After applying suitable data cleaning and pre-processing methods, the machine learning techniques such as classification and regression models will be applied.
